@@ -9,3 +9,4 @@ fiona
 zipfile36
 folium
 branca
+streamlit-folium
